@@ -16,11 +16,11 @@ Aos 6 anos tive meu primeiro contato com o mundo dos computadores. À primeira v
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/React-333333.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
 
 ### ⚙️ Back-end e banco de dados: 
 
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=coffeescript&logoColor=f89820)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-333333.svg?style=flat&logo=springboot&logoColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-333333.svg?style=flat&logo=springboot&logoColor=6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
